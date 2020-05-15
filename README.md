@@ -1,6 +1,6 @@
 # Customer-segmentation-and-consumer-behavior-analysis
 
-(Please click on the Consumer buying behavior - Paul.ipynb above to see the detailed application of analytics and its interpretation)
+(Please click on the Customer segmentation and consumer behavior analysis.ipynb above to see the detailed application of analytics and its interpretation)
 
 Brief Snapshot: 
 
@@ -79,7 +79,7 @@ Delicassen: Segnment # 2 on average makes most purchases, followed by Segmnet # 
 
 
 ## Snapshots of few Analysis: 
-(Detailed analysis shown in Consumer buying behavior - Paul.ipynb file)
+(Detailed analysis shown in Customer segmentation and consumer behavior analysis.ipynb file)
 
 ### Customers:
 
